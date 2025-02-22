@@ -2,4 +2,4 @@
 My Resume
 
 ## first steps
--main.js contains visitor counter. 
+- main.js contains visitor counter. 
